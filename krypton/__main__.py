@@ -59,9 +59,9 @@ async def start(_, message):
 async def helps(_, message):
     await message.reply_text(HELP_TEXT)
 
-@app.on_message(filters.text & cmd_filter('repo'))
-async def repo(_, message):
-    await message.reply_text(REPO_TEXT)
+@app.on_message(filters.text & cmd_filter('Tap'))
+async def Tap(_, message):
+    await message.reply_text(url='https://t.me/bcddgblg')
 
 @app.on_message(filters.text & cmd_filter('ping'))
 async def ping(_, message):
