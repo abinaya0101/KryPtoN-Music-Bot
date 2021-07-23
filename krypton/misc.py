@@ -15,11 +15,10 @@ HELP_TEXT = """__**I Can Play Music In The Voice Chat**__
 **/repo** __To Source Code This Not.__
 **/donation** __To Give Me A Coffe.__"""
 
-START_TEXT = "__**Hi I'm KryPtoN Music Bot. I will sing for you on Voice Call Telegram, Hit /help for look my features.**__"
+START_TEXT = "__**Hi Saya Bcdmusicbot. Saya di aktikan oleh Ano. Saya dapat memutar lagu pada vc Group, Tap /help untuk menu commands.**__"
 
-REPO_TEXT = """Source code this bot 🤖
-Source code: [Github](https://github.com/Kry9toN/KryPtoN-Music-Bot)
-License: [ GPL-3.0 License](https://github.com/Kry9toN/KryPtoN-Music-Bot/blob/master/LICENSE.md)"""
+REPO_TEXT = """Source Code 🤖
+Source code: [Special Thanks](https://t.me/bcddgblg)"""
 
 DONATION_TEXT = """♥️Donation List♥️
 Indonesia:
