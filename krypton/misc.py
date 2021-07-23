@@ -1,4 +1,4 @@
-HELP_TEXT = """__**I Can Play Music In The Voice Chat**__
+HELP_TEXT = """__**Halo Saya pemutar musik Vc~Group**__
 
 **/start** __To Start The bot.__
 **/help** __To Show This Message.__
